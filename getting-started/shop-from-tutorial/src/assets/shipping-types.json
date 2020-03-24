@@ -1,0 +1,14 @@
+[
+  {
+    "type": "24-hour",
+    "price": 9.99
+  },
+  {
+    "type": "2-Day",
+    "price": 4.99
+  },
+  {
+    "type": "Postal",
+    "price": 1.99
+  }
+]
